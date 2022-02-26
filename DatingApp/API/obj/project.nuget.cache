@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "q84BMjFqrHQc64U6XK2NM+LfHruRAWLbUYv59rpd/hOT0sq1tURn2ZBlr1NRTNyvr5RA9pMhnFH4qtiGdOyCuA==",
+  "dgSpecHash": "/luGSFY+7oAQT7fFxmQrrkagHRlfwMmKN4jiLpQRwHiue2wmAE1kbOxJz1nOKckqUW3vNn0ykGWRP4if+LH5zw==",
   "success": true,
   "projectFilePath": "/Users/fadyfaheem/Documents/GitHub/NET-Dating-App/DatingApp/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/fadyfaheem/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/fadyfaheem/.nuget/packages/microsoft.data.sqlite.core/6.0.2/microsoft.data.sqlite.core.6.0.2.nupkg.sha512",
     "/Users/fadyfaheem/.nuget/packages/microsoft.entityframeworkcore/6.0.2/microsoft.entityframeworkcore.6.0.2.nupkg.sha512",
     "/Users/fadyfaheem/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.2/microsoft.entityframeworkcore.abstractions.6.0.2.nupkg.sha512",
     "/Users/fadyfaheem/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.2/microsoft.entityframeworkcore.analyzers.6.0.2.nupkg.sha512",
+    "/Users/fadyfaheem/.nuget/packages/microsoft.entityframeworkcore.design/6.0.2/microsoft.entityframeworkcore.design.6.0.2.nupkg.sha512",
     "/Users/fadyfaheem/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.2/microsoft.entityframeworkcore.relational.6.0.2.nupkg.sha512",
     "/Users/fadyfaheem/.nuget/packages/microsoft.entityframeworkcore.sqlite/6.0.2/microsoft.entityframeworkcore.sqlite.6.0.2.nupkg.sha512",
     "/Users/fadyfaheem/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/6.0.2/microsoft.entityframeworkcore.sqlite.core.6.0.2.nupkg.sha512",
