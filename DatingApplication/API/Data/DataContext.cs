@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using API.Entities;
 
-namespace API.Controllers.Data
+namespace API.Data
 {
     public class DataContext : DbContext
     {
