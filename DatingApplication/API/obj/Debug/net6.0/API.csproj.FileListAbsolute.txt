@@ -52,3 +52,10 @@
 /Users/fadyfaheem/Documents/GitHub/NET-Dating-App/DatingApplication/API/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/fadyfaheem/Documents/GitHub/NET-Dating-App/DatingApplication/API/bin/Debug/net6.0/Humanizer.dll
 /Users/fadyfaheem/Documents/GitHub/NET-Dating-App/DatingApplication/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/fadyfaheem/Documents/GitHub/NET-Dating-App/DatingApplication/API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/fadyfaheem/Documents/GitHub/NET-Dating-App/DatingApplication/API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/fadyfaheem/Documents/GitHub/NET-Dating-App/DatingApplication/API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/fadyfaheem/Documents/GitHub/NET-Dating-App/DatingApplication/API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/fadyfaheem/Documents/GitHub/NET-Dating-App/DatingApplication/API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/fadyfaheem/Documents/GitHub/NET-Dating-App/DatingApplication/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/fadyfaheem/Documents/GitHub/NET-Dating-App/DatingApplication/API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
